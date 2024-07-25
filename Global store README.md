@@ -1,5 +1,6 @@
-# DSML-Project
+# DSML-Project 
  Gloabal Super Store Sales Analysis
+ (Published as article in linkedin: https://www.linkedin.com/pulse/gloabal-super-store-sales-analysis-abhishek-m-r-frpoc/)
 
 
 ### Dashboard Link : https://drive.google.com/file/d/1CZkLBRxIsmmFHflcSUALv-vq74qN-jCE/view?usp=drive_link
